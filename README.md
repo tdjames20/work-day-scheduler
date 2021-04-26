@@ -1,2 +1,2 @@
 # work-day-scheduler
-3rd part API HW
+3rd party API HW
